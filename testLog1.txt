@@ -1,0 +1,5 @@
+component A - passed
+component B - error 401
+component C - N/A
+component B - error 404
+component D - N/I

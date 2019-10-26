@@ -1,0 +1,5 @@
+component X - N/I
+component Y - N/I
+component Z - N/A
+component Z - error 404
+component X - N/I
